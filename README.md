@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Debadrito, a student at JIS College of Engineering, pursuing B.Tech in Electronics and Communication Engineering.
+I am interested in AI-ML Development, Web Development, IoT, etc.
+Through the use of these technologies, I try to develop Real-World Solutions.
+
+Hobbies: Reading Books, buiding things, upskilling, football
 
 <!--
 **debadritoghosh/debadritoghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
